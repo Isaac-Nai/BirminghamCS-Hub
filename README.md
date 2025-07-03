@@ -46,6 +46,10 @@ You can view progress via [GitHub Projects](./projects).
 
 ---
 
+🤝 Contributions welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to get involved.
+
+---
+
 ## 🛠️ Setup Instructions
 
 ### Frontend (static version)
